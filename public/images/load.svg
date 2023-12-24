@@ -1,0 +1,19 @@
+<svg width="666" height="666" viewBox="0 0 666 666" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_212_3)">
+<mask id="mask0_212_3" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="666" height="666">
+<path d="M666 0H0V666H666V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_212_3)">
+<path d="M332.999 196.946C408.088 196.946 469.053 257.912 469.053 333C469.053 408.088 408.088 469.054 332.999 469.054C257.911 469.054 196.945 408.088 196.945 333C196.945 257.912 257.911 196.946 332.999 196.946Z" stroke="#D5D6DF" stroke-width="34"/>
+<path d="M345.86 332.386V333.614C345.86 339.773 340.399 344.774 333.671 344.774H332.331C325.603 344.774 320.141 339.773 320.141 333.614V332.386C320.141 326.227 325.603 321.226 332.331 321.226H333.671C340.399 321.226 345.86 326.227 345.86 332.386Z" stroke="#9FBDAF" stroke-width="25.3931"/>
+<path d="M325.879 197.132C348.294 195.957 369.733 200.289 388.882 208.943" stroke="#9FBDAF" stroke-width="34" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M333.083 161.213C333.083 157.259 333.041 122.378 333.041 122.378" stroke="#9FBDAF" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M386.164 169.647C386.828 167.605 390.296 156.888 393.329 147.519" stroke="#9FBDAF" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_212_3">
+<rect width="666" height="666" fill="white"/>
+</clipPath>
+</defs>
+</svg>
